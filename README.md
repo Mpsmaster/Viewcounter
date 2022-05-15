@@ -26,13 +26,13 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2022/5/12 12:00 AM UTC
+			2022/5/13 12:00 AM UTC
 		</td>
 		<td>
-			15
+			17
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/Mpsmaster/Viewcounter/raw/master/graph/488105366/small/year.png" height="20"> 179
+			<img alt="Response time graph" src="https://github.com/Mpsmaster/Viewcounter/raw/master/graph/488105366/small/year.png" height="20"> 200
 		</td>
 	</tr>
 	<tr>
@@ -42,13 +42,13 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2022/5/12 12:00 AM UTC
+			2022/5/13 12:00 AM UTC
 		</td>
 		<td>
-			2
+			4
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/Mpsmaster/Viewcounter/raw/master/graph/491348277/small/year.png" height="20"> 32
+			<img alt="Response time graph" src="https://github.com/Mpsmaster/Viewcounter/raw/master/graph/491348277/small/year.png" height="20"> 58
 		</td>
 	</tr>
 	<tr>
@@ -58,13 +58,13 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2022/5/12 2:51 AM UTC
+			2022/5/13 12:00 AM UTC
 		</td>
 		<td>
-			5
+			6
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/Mpsmaster/Viewcounter/raw/master/graph/488047529/small/year.png" height="20"> 87
+			<img alt="Response time graph" src="https://github.com/Mpsmaster/Viewcounter/raw/master/graph/488047529/small/year.png" height="20"> 116
 		</td>
 	</tr>
 	<tr>
@@ -74,7 +74,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2022/5/12 12:00 AM UTC
+			2022/5/13 2:51 AM UTC
 		</td>
 		<td>
 			2
@@ -90,13 +90,13 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2022/5/12 2:51 AM UTC
+			2022/5/13 12:00 AM UTC
 		</td>
 		<td>
-			2
+			3
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/Mpsmaster/Viewcounter/raw/master/graph/490287175/small/year.png" height="20"> 14
+			<img alt="Response time graph" src="https://github.com/Mpsmaster/Viewcounter/raw/master/graph/490287175/small/year.png" height="20"> 20
 		</td>
 	</tr>
 	<tr>
@@ -106,7 +106,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2022/5/12 2:52 AM UTC
+			2022/5/13 2:52 AM UTC
 		</td>
 		<td>
 			1
@@ -122,7 +122,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2022/5/12 2:52 AM UTC
+			2022/5/13 2:52 AM UTC
 		</td>
 		<td>
 			1
@@ -138,7 +138,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2022/5/12 2:52 AM UTC
+			2022/5/13 2:52 AM UTC
 		</td>
 		<td>
 			1
@@ -154,13 +154,13 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2022/5/12 2:52 AM UTC
+			2022/5/13 12:00 AM UTC
 		</td>
 		<td>
-			1
+			2
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/Mpsmaster/Viewcounter/raw/master/graph/488346472/small/year.png" height="20"> 12
+			<img alt="Response time graph" src="https://github.com/Mpsmaster/Viewcounter/raw/master/graph/488346472/small/year.png" height="20"> 15
 		</td>
 	</tr>
 	<tr>
@@ -170,13 +170,13 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2022/5/12 2:52 AM UTC
+			2022/5/13 12:00 AM UTC
 		</td>
 		<td>
-			5
+			6
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/Mpsmaster/Viewcounter/raw/master/graph/488062606/small/year.png" height="20"> 86
+			<img alt="Response time graph" src="https://github.com/Mpsmaster/Viewcounter/raw/master/graph/488062606/small/year.png" height="20"> 87
 		</td>
 	</tr>
 	<tr>
@@ -186,18 +186,18 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2022/5/12 2:52 AM UTC
+			2022/5/13 12:00 AM UTC
 		</td>
 		<td>
-			3
+			4
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/Mpsmaster/Viewcounter/raw/master/graph/488043347/small/year.png" height="20"> 28
+			<img alt="Response time graph" src="https://github.com/Mpsmaster/Viewcounter/raw/master/graph/488043347/small/year.png" height="20"> 29
 		</td>
 	</tr>
 </table>
 
-<small><i>Last updated on 2022/5/14 6:47 PM UTC</i></small>
+<small><i>Last updated on 2022/5/15 3:31 AM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### Total Views Badge
