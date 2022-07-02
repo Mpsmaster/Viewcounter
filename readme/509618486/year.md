@@ -1,7 +1,7 @@
 ## [🔙 Viewcounter](https://github.com/Mpsmaster/Viewcounter)
 
-### :octocat: [Mpsmaster.github.io](https://github.com/Mpsmaster/Mpsmaster.github.io)
-![Image of Viewcounter](https://github.com/Mpsmaster/Viewcounter/blob/master/graph/488062606/large/year.png)
+### :octocat: [Git-commands](https://github.com/Mpsmaster/Git-commands)
+![Image of Viewcounter](https://github.com/Mpsmaster/Viewcounter/blob/master/graph/509618486/large/year.png)
 
 <details>
 	<summary>Click to expand table</summary>
@@ -23,10 +23,10 @@
 			<code>2022/7/1</code>
 		</td>
 		<td>
-			<code>1</code>
+			<code>0</code>
 		</td>
 		<td>
-			<code>1</code>
+			<code>0</code>
 		</td>
 	</tr>
 	<tr>
@@ -45,10 +45,10 @@
 			<code>2022/5/1</code>
 		</td>
 		<td>
-			<code>6</code>
+			<code>0</code>
 		</td>
 		<td>
-			<code>86</code>
+			<code>0</code>
 		</td>
 	</tr>
 	<tr>
@@ -164,18 +164,18 @@
 </table>
 
 </details>
-<small><i>Last updated on 2022/7/2 12:28 AM UTC</i></small>
+<small><i>Last updated on 2022/7/2 12:29 AM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### SVG Badge
-[![Image of Viewcounter](https://github.com/Mpsmaster/Viewcounter/blob/master/svg/488062606/badge.svg)](https://github.com/Mpsmaster/Viewcounter/blob/master/readme/488062606/week.md)
+[![Image of Viewcounter](https://github.com/Mpsmaster/Viewcounter/blob/master/svg/509618486/badge.svg)](https://github.com/Mpsmaster/Viewcounter/blob/master/readme/509618486/week.md)
 ```readme
-[![Image of Viewcounter](https://github.com/Mpsmaster/Viewcounter/blob/master/svg/488062606/badge.svg)](https://github.com/Mpsmaster/Viewcounter/blob/master/readme/488062606/week.md)
+[![Image of Viewcounter](https://github.com/Mpsmaster/Viewcounter/blob/master/svg/509618486/badge.svg)](https://github.com/Mpsmaster/Viewcounter/blob/master/readme/509618486/week.md)
 ```
 ### Header
-# Mpsmaster.github.io [<img alt="Image of Viewcounter" src="https://github.com/Mpsmaster/Viewcounter/blob/master/graph/488062606/small/year.png" height="20">](https://github.com/Mpsmaster/Viewcounter/blob/master/readme/488062606/year.md)
+# Git-commands [<img alt="Image of Viewcounter" src="https://github.com/Mpsmaster/Viewcounter/blob/master/graph/509618486/small/year.png" height="20">](https://github.com/Mpsmaster/Viewcounter/blob/master/readme/509618486/year.md)
 ```readme
-# Mpsmaster.github.io [<img alt="Image of Viewcounter" src="https://github.com/Mpsmaster/Viewcounter/blob/master/graph/488062606/small/year.png" height="20">](https://github.com/Mpsmaster/Viewcounter/blob/master/readme/488062606/year.md)
+# Git-commands [<img alt="Image of Viewcounter" src="https://github.com/Mpsmaster/Viewcounter/blob/master/graph/509618486/small/year.png" height="20">](https://github.com/Mpsmaster/Viewcounter/blob/master/readme/509618486/year.md)
 ```
 [**Set up GitHub Profile Views Counter for your repositories**](https://github.com/gayanvoice/github-profile-views-counter)
 ## ⛔ DO NOT
