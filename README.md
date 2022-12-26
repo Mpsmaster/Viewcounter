@@ -21,22 +21,6 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 	<tr>
 		<td>
-			<a href="https://github.com/Mpsmaster/Viewcounter/tree/master/readme/488105366/year.md">
-				Jornada-dev.github.io
-			</a>
-		</td>
-		<td>
-			2022/12/24 12:28 AM UTC
-		</td>
-		<td>
-			17
-		</td>
-		<td>
-			<img alt="Response time graph" src="https://github.com/Mpsmaster/Viewcounter/raw/master/graph/488105366/small/year.png" height="20"> 200
-		</td>
-	</tr>
-	<tr>
-		<td>
 			<a href="https://github.com/Mpsmaster/Viewcounter/tree/master/readme/491348277/year.md">
 				Goku.gethub.io
 			</a>
@@ -213,7 +197,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 </table>
 
-<small><i>Last updated on 2022/12/26 12:12 PM UTC</i></small>
+<small><i>Last updated on 2022/12/26 6:09 PM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### Total Views Badge
