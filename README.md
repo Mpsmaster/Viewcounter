@@ -243,9 +243,105 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			<img alt="Response time graph" src="https://github.com/Mpsmaster/Viewcounter/raw/master/graph/941268769/small/year.png" height="20"> 48
 		</td>
 	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/Mpsmaster/Viewcounter/tree/master/readme/942780067/year.md">
+				Amuleto-Mistico
+			</a>
+		</td>
+		<td>
+			2025/3/1 5:33 PM UTC
+		</td>
+		<td>
+			0
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/Mpsmaster/Viewcounter/raw/master/graph/942780067/small/year.png" height="20"> 0
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/Mpsmaster/Viewcounter/tree/master/readme/942297907/year.md">
+				Tip-calculator
+			</a>
+		</td>
+		<td>
+			2025/3/1 5:33 PM UTC
+		</td>
+		<td>
+			1
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/Mpsmaster/Viewcounter/raw/master/graph/942297907/small/year.png" height="20"> 2
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/Mpsmaster/Viewcounter/tree/master/readme/940841011/year.md">
+				math-website
+			</a>
+		</td>
+		<td>
+			2025/3/1 5:33 PM UTC
+		</td>
+		<td>
+			3
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/Mpsmaster/Viewcounter/raw/master/graph/940841011/small/year.png" height="20"> 9
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/Mpsmaster/Viewcounter/tree/master/readme/940813906/year.md">
+				my-project
+			</a>
+		</td>
+		<td>
+			2025/3/1 5:33 PM UTC
+		</td>
+		<td>
+			1
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/Mpsmaster/Viewcounter/raw/master/graph/940813906/small/year.png" height="20"> 5
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/Mpsmaster/Viewcounter/tree/master/readme/543326891/year.md">
+				devicon
+			</a>
+		</td>
+		<td>
+			2025/3/1 5:33 PM UTC
+		</td>
+		<td>
+			1
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/Mpsmaster/Viewcounter/raw/master/graph/543326891/small/year.png" height="20"> 2
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/Mpsmaster/Viewcounter/tree/master/readme/512284440/year.md">
+				Javascript
+			</a>
+		</td>
+		<td>
+			2025/3/1 5:34 PM UTC
+		</td>
+		<td>
+			1
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/Mpsmaster/Viewcounter/raw/master/graph/512284440/small/year.png" height="20"> 4
+		</td>
+	</tr>
 </table>
 
-<small><i>Last updated on 2025/3/4 12:43 PM UTC</i></small>
+<small><i>Last updated on 2025/3/4 5:34 PM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### Total Views Badge
