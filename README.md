@@ -26,7 +26,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2025/3/3 1:43 AM UTC
+			2025/3/4 1:42 AM UTC
 		</td>
 		<td>
 			18
@@ -42,7 +42,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2025/3/3 1:43 AM UTC
+			2025/3/4 1:42 AM UTC
 		</td>
 		<td>
 			8
@@ -58,7 +58,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2025/3/3 1:43 AM UTC
+			2025/3/4 1:42 AM UTC
 		</td>
 		<td>
 			12
@@ -74,7 +74,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2025/3/3 1:44 AM UTC
+			2025/3/4 1:42 AM UTC
 		</td>
 		<td>
 			4
@@ -90,7 +90,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2025/3/3 1:44 AM UTC
+			2025/3/4 1:42 AM UTC
 		</td>
 		<td>
 			4
@@ -106,7 +106,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2025/3/3 1:44 AM UTC
+			2025/3/4 1:43 AM UTC
 		</td>
 		<td>
 			3
@@ -122,7 +122,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2025/3/3 1:44 AM UTC
+			2025/3/4 1:43 AM UTC
 		</td>
 		<td>
 			1
@@ -138,7 +138,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2025/3/3 1:44 AM UTC
+			2025/3/4 1:43 AM UTC
 		</td>
 		<td>
 			1
@@ -154,7 +154,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2025/3/3 1:44 AM UTC
+			2025/3/4 1:43 AM UTC
 		</td>
 		<td>
 			5
@@ -170,7 +170,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2025/3/3 1:44 AM UTC
+			2025/3/4 1:43 AM UTC
 		</td>
 		<td>
 			8
@@ -186,7 +186,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2025/3/3 1:44 AM UTC
+			2025/3/4 1:43 AM UTC
 		</td>
 		<td>
 			4
@@ -202,7 +202,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2025/3/3 1:44 AM UTC
+			2025/3/4 1:43 AM UTC
 		</td>
 		<td>
 			2
@@ -218,13 +218,13 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2025/3/3 1:45 AM UTC
+			2025/3/4 12:00 AM UTC
 		</td>
 		<td>
-			1
+			2
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/Mpsmaster/Viewcounter/raw/master/graph/941327057/small/year.png" height="20"> 27
+			<img alt="Response time graph" src="https://github.com/Mpsmaster/Viewcounter/raw/master/graph/941327057/small/year.png" height="20"> 30
 		</td>
 	</tr>
 	<tr>
@@ -234,13 +234,13 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2025/3/3 12:00 AM UTC
+			2025/3/4 12:00 AM UTC
 		</td>
 		<td>
-			7
+			8
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/Mpsmaster/Viewcounter/raw/master/graph/941268769/small/year.png" height="20"> 49
+			<img alt="Response time graph" src="https://github.com/Mpsmaster/Viewcounter/raw/master/graph/941268769/small/year.png" height="20"> 51
 		</td>
 	</tr>
 	<tr>
@@ -250,13 +250,13 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2025/3/3 5:33 PM UTC
+			2025/3/4 12:00 AM UTC
 		</td>
 		<td>
-			0
+			1
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/Mpsmaster/Viewcounter/raw/master/graph/942780067/small/year.png" height="20"> 0
+			<img alt="Response time graph" src="https://github.com/Mpsmaster/Viewcounter/raw/master/graph/942780067/small/year.png" height="20"> 5
 		</td>
 	</tr>
 	<tr>
@@ -266,7 +266,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2025/3/3 12:00 AM UTC
+			2025/3/4 5:33 PM UTC
 		</td>
 		<td>
 			2
@@ -282,7 +282,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2025/3/3 5:33 PM UTC
+			2025/3/4 5:33 PM UTC
 		</td>
 		<td>
 			4
@@ -298,7 +298,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2025/3/3 5:33 PM UTC
+			2025/3/4 5:33 PM UTC
 		</td>
 		<td>
 			1
@@ -314,13 +314,13 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2025/3/3 5:33 PM UTC
+			2025/3/4 12:00 AM UTC
 		</td>
 		<td>
-			1
+			2
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/Mpsmaster/Viewcounter/raw/master/graph/543326891/small/year.png" height="20"> 2
+			<img alt="Response time graph" src="https://github.com/Mpsmaster/Viewcounter/raw/master/graph/543326891/small/year.png" height="20"> 3
 		</td>
 	</tr>
 	<tr>
@@ -330,7 +330,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2025/3/3 5:34 PM UTC
+			2025/3/4 5:34 PM UTC
 		</td>
 		<td>
 			1
@@ -339,9 +339,57 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			<img alt="Response time graph" src="https://github.com/Mpsmaster/Viewcounter/raw/master/graph/512284440/small/year.png" height="20"> 4
 		</td>
 	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/Mpsmaster/Viewcounter/tree/master/readme/943329960/year.md">
+				Cara-ou-Coroa
+			</a>
+		</td>
+		<td>
+			2025/3/3 12:21 AM UTC
+		</td>
+		<td>
+			1
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/Mpsmaster/Viewcounter/raw/master/graph/943329960/small/year.png" height="20"> 19
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/Mpsmaster/Viewcounter/tree/master/readme/943449579/year.md">
+				Papel-pedra-tesoura
+			</a>
+		</td>
+		<td>
+			2025/3/3 12:21 AM UTC
+		</td>
+		<td>
+			1
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/Mpsmaster/Viewcounter/raw/master/graph/943449579/small/year.png" height="20"> 12
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/Mpsmaster/Viewcounter/tree/master/readme/943578308/year.md">
+				FizzNunu
+			</a>
+		</td>
+		<td>
+			2025/3/3 12:21 AM UTC
+		</td>
+		<td>
+			1
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/Mpsmaster/Viewcounter/raw/master/graph/943578308/small/year.png" height="20"> 6
+		</td>
+	</tr>
 </table>
 
-<small><i>Last updated on 2025/3/5 12:43 PM UTC</i></small>
+<small><i>Last updated on 2025/3/6 12:21 AM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### Total Views Badge
