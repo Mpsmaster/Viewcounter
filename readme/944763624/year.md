@@ -1,7 +1,7 @@
 ## [🔙 Viewcounter](https://github.com/Mpsmaster/Viewcounter)
 
-### :octocat: [HTML.github.io](https://github.com/Mpsmaster/HTML.github.io)
-![Image of Viewcounter](https://github.com/Mpsmaster/Viewcounter/blob/master/graph/488346472/large/year.png)
+### :octocat: [hangman](https://github.com/Mpsmaster/hangman)
+![Image of Viewcounter](https://github.com/Mpsmaster/Viewcounter/blob/master/graph/944763624/large/year.png)
 
 <details>
 	<summary>Click to expand table</summary>
@@ -34,10 +34,10 @@
 			<code>2025/2/1</code>
 		</td>
 		<td>
-			<code>1</code>
+			<code>0</code>
 		</td>
 		<td>
-			<code>5</code>
+			<code>0</code>
 		</td>
 	</tr>
 	<tr>
@@ -164,18 +164,18 @@
 </table>
 
 </details>
-<small><i>Last updated on 2025/3/7 11:27 PM UTC</i></small>
+<small><i>Last updated on 2025/3/7 11:29 PM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### SVG Badge
-[![Image of Viewcounter](https://github.com/Mpsmaster/Viewcounter/blob/master/svg/488346472/badge.svg)](https://github.com/Mpsmaster/Viewcounter/blob/master/readme/488346472/week.md)
+[![Image of Viewcounter](https://github.com/Mpsmaster/Viewcounter/blob/master/svg/944763624/badge.svg)](https://github.com/Mpsmaster/Viewcounter/blob/master/readme/944763624/week.md)
 ```readme
-[![Image of Viewcounter](https://github.com/Mpsmaster/Viewcounter/blob/master/svg/488346472/badge.svg)](https://github.com/Mpsmaster/Viewcounter/blob/master/readme/488346472/week.md)
+[![Image of Viewcounter](https://github.com/Mpsmaster/Viewcounter/blob/master/svg/944763624/badge.svg)](https://github.com/Mpsmaster/Viewcounter/blob/master/readme/944763624/week.md)
 ```
 ### Header
-# HTML.github.io [<img alt="Image of Viewcounter" src="https://github.com/Mpsmaster/Viewcounter/blob/master/graph/488346472/small/year.png" height="20">](https://github.com/Mpsmaster/Viewcounter/blob/master/readme/488346472/year.md)
+# hangman [<img alt="Image of Viewcounter" src="https://github.com/Mpsmaster/Viewcounter/blob/master/graph/944763624/small/year.png" height="20">](https://github.com/Mpsmaster/Viewcounter/blob/master/readme/944763624/year.md)
 ```readme
-# HTML.github.io [<img alt="Image of Viewcounter" src="https://github.com/Mpsmaster/Viewcounter/blob/master/graph/488346472/small/year.png" height="20">](https://github.com/Mpsmaster/Viewcounter/blob/master/readme/488346472/year.md)
+# hangman [<img alt="Image of Viewcounter" src="https://github.com/Mpsmaster/Viewcounter/blob/master/graph/944763624/small/year.png" height="20">](https://github.com/Mpsmaster/Viewcounter/blob/master/readme/944763624/year.md)
 ```
 [**Set up GitHub Profile Views Counter for your repositories**](https://github.com/gayanvoice/github-profile-views-counter)
 ## ⛔ DO NOT
