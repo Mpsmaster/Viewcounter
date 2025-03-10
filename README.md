@@ -403,9 +403,57 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			<img alt="Response time graph" src="https://github.com/Mpsmaster/Viewcounter/raw/master/graph/944763624/small/year.png" height="20"> 4
 		</td>
 	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/Mpsmaster/Viewcounter/tree/master/readme/945246931/year.md">
+				lifeweekcounter
+			</a>
+		</td>
+		<td>
+			2025/3/7 7:20 PM UTC
+		</td>
+		<td>
+			1
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/Mpsmaster/Viewcounter/raw/master/graph/945246931/small/year.png" height="20"> 2
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/Mpsmaster/Viewcounter/tree/master/readme/945539823/year.md">
+				luckycookie
+			</a>
+		</td>
+		<td>
+			2025/3/7 7:20 PM UTC
+		</td>
+		<td>
+			1
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/Mpsmaster/Viewcounter/raw/master/graph/945539823/small/year.png" height="20"> 6
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/Mpsmaster/Viewcounter/tree/master/readme/945595837/year.md">
+				caesarcypher
+			</a>
+		</td>
+		<td>
+			2025/3/7 7:21 PM UTC
+		</td>
+		<td>
+			1
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/Mpsmaster/Viewcounter/raw/master/graph/945595837/small/year.png" height="20"> 2
+		</td>
+	</tr>
 </table>
 
-<small><i>Last updated on 2025/3/10 6:30 PM UTC</i></small>
+<small><i>Last updated on 2025/3/10 7:21 PM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### Total Views Badge
