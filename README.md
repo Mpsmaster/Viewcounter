@@ -451,9 +451,57 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			<img alt="Response time graph" src="https://github.com/Mpsmaster/Viewcounter/raw/master/graph/945595837/small/year.png" height="20"> 4
 		</td>
 	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/Mpsmaster/Viewcounter/tree/master/readme/946973453/year.md">
+				luckychecker
+			</a>
+		</td>
+		<td>
+			2025/3/10 2:40 PM UTC
+		</td>
+		<td>
+			1
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/Mpsmaster/Viewcounter/raw/master/graph/946973453/small/year.png" height="20"> 5
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/Mpsmaster/Viewcounter/tree/master/readme/947495822/year.md">
+				fun-calculator
+			</a>
+		</td>
+		<td>
+			2025/3/10 2:40 PM UTC
+		</td>
+		<td>
+			2
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/Mpsmaster/Viewcounter/raw/master/graph/947495822/small/year.png" height="20"> 3
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/Mpsmaster/Viewcounter/tree/master/readme/947939570/year.md">
+				blackjack-tutor
+			</a>
+		</td>
+		<td>
+			2025/3/10 2:40 PM UTC
+		</td>
+		<td>
+			1
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/Mpsmaster/Viewcounter/raw/master/graph/947939570/small/year.png" height="20"> 2
+		</td>
+	</tr>
 </table>
 
-<small><i>Last updated on 2025/3/13 12:45 PM UTC</i></small>
+<small><i>Last updated on 2025/3/13 2:40 PM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### Total Views Badge
