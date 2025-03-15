@@ -1,7 +1,7 @@
 ## [🔙 Viewcounter](https://github.com/Mpsmaster/Viewcounter)
 
-### :octocat: [Goku.gethub.io](https://github.com/Mpsmaster/Goku.gethub.io)
-![Image of Viewcounter](https://github.com/Mpsmaster/Viewcounter/blob/master/graph/491348277/large/year.png)
+### :octocat: [Higherlower](https://github.com/Mpsmaster/Higherlower)
+![Image of Viewcounter](https://github.com/Mpsmaster/Viewcounter/blob/master/graph/949082746/large/year.png)
 
 <details>
 	<summary>Click to expand table</summary>
@@ -23,10 +23,10 @@
 			<code>2025/3/1</code>
 		</td>
 		<td>
-			<code>1</code>
+			<code>0</code>
 		</td>
 		<td>
-			<code>5</code>
+			<code>0</code>
 		</td>
 	</tr>
 	<tr>
@@ -34,10 +34,10 @@
 			<code>2025/2/1</code>
 		</td>
 		<td>
-			<code>1</code>
+			<code>0</code>
 		</td>
 		<td>
-			<code>4</code>
+			<code>0</code>
 		</td>
 	</tr>
 	<tr>
@@ -164,18 +164,18 @@
 </table>
 
 </details>
-<small><i>Last updated on 2025/3/15 4:44 PM UTC</i></small>
+<small><i>Last updated on 2025/3/15 4:48 PM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### SVG Badge
-[![Image of Viewcounter](https://github.com/Mpsmaster/Viewcounter/blob/master/svg/491348277/badge.svg)](https://github.com/Mpsmaster/Viewcounter/blob/master/readme/491348277/week.md)
+[![Image of Viewcounter](https://github.com/Mpsmaster/Viewcounter/blob/master/svg/949082746/badge.svg)](https://github.com/Mpsmaster/Viewcounter/blob/master/readme/949082746/week.md)
 ```readme
-[![Image of Viewcounter](https://github.com/Mpsmaster/Viewcounter/blob/master/svg/491348277/badge.svg)](https://github.com/Mpsmaster/Viewcounter/blob/master/readme/491348277/week.md)
+[![Image of Viewcounter](https://github.com/Mpsmaster/Viewcounter/blob/master/svg/949082746/badge.svg)](https://github.com/Mpsmaster/Viewcounter/blob/master/readme/949082746/week.md)
 ```
 ### Header
-# Goku.gethub.io [<img alt="Image of Viewcounter" src="https://github.com/Mpsmaster/Viewcounter/blob/master/graph/491348277/small/year.png" height="20">](https://github.com/Mpsmaster/Viewcounter/blob/master/readme/491348277/year.md)
+# Higherlower [<img alt="Image of Viewcounter" src="https://github.com/Mpsmaster/Viewcounter/blob/master/graph/949082746/small/year.png" height="20">](https://github.com/Mpsmaster/Viewcounter/blob/master/readme/949082746/year.md)
 ```readme
-# Goku.gethub.io [<img alt="Image of Viewcounter" src="https://github.com/Mpsmaster/Viewcounter/blob/master/graph/491348277/small/year.png" height="20">](https://github.com/Mpsmaster/Viewcounter/blob/master/readme/491348277/year.md)
+# Higherlower [<img alt="Image of Viewcounter" src="https://github.com/Mpsmaster/Viewcounter/blob/master/graph/949082746/small/year.png" height="20">](https://github.com/Mpsmaster/Viewcounter/blob/master/readme/949082746/year.md)
 ```
 [**Set up GitHub Profile Views Counter for your repositories**](https://github.com/gayanvoice/github-profile-views-counter)
 ## ⛔ DO NOT

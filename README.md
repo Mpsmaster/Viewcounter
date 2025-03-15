@@ -499,9 +499,41 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			<img alt="Response time graph" src="https://github.com/Mpsmaster/Viewcounter/raw/master/graph/947939570/small/year.png" height="20"> 16
 		</td>
 	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/Mpsmaster/Viewcounter/tree/master/readme/948571173/year.md">
+				Guess-number
+			</a>
+		</td>
+		<td>
+			2025/3/12 4:48 PM UTC
+		</td>
+		<td>
+			1
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/Mpsmaster/Viewcounter/raw/master/graph/948571173/small/year.png" height="20"> 7
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/Mpsmaster/Viewcounter/tree/master/readme/949082746/year.md">
+				Higherlower
+			</a>
+		</td>
+		<td>
+			2025/3/12 4:48 PM UTC
+		</td>
+		<td>
+			0
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/Mpsmaster/Viewcounter/raw/master/graph/949082746/small/year.png" height="20"> 0
+		</td>
+	</tr>
 </table>
 
-<small><i>Last updated on 2025/3/15 12:41 PM UTC</i></small>
+<small><i>Last updated on 2025/3/15 4:48 PM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### Total Views Badge
